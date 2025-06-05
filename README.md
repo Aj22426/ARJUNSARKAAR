@@ -2,7 +2,7 @@
   <img src="https://envs.sh/HcA.jpg" alt="ARJUN SARKAAR Logo">
 </p>
 <h1 align="center">
-  ARJUNA SARKAAR 
+  ARJUN SARKAAR 
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+ARJUN+SARKAAR+Bot!)
