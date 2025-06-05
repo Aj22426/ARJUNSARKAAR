@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://envs.sh/HcA.jpg" alt="ARJUNSARKAAR Logo">
+  <img src="https://envs.sh/HcA.jpg" alt="ARJUN SARKAAR Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  ARJUNA SARKAAR 
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+ARJUN+SARKAAR+Bot!)
